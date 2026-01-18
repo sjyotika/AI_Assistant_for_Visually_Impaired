@@ -93,10 +93,14 @@ git clone https://github.com/your-username/ai-visual-assistant.git
 cd ai-visual-assistant
 ```
 #### 2️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 #### 3️⃣ Run the Application
+```bash
 python main.py
+```
 
 📷 Ensure your webcam is enabled and accessible.
 
