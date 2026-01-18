@@ -91,6 +91,7 @@ Audio Guidance to User
 ```bash
 git clone https://github.com/your-username/ai-visual-assistant.git
 cd ai-visual-assistant
+```
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
