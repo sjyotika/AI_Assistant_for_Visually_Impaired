@@ -87,66 +87,66 @@ Audio Guidance to User
 
 ## ▶️ How to Run the Project
 
-### 1️⃣ Clone the Repository
+#### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/ai-visual-assistant.git
 cd ai-visual-assistant
 ```
-2️⃣ Install Dependencies
+#### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-3️⃣ Run the Application
+#### 3️⃣ Run the Application
 python main.py
 
 📷 Ensure your webcam is enabled and accessible.
 
-🧪 Testing & Validation
+## 🧪 Testing & Validation
 
-The system was tested in indoor environments with:
+- The system was tested in indoor environments with:
 
-Objects placed on the left, right, and center
+- Objects placed on the left, right, and center
 
-People approaching the camera
+- People approaching the camera
 
-Multiple objects present simultaneously
+- Multiple objects present simultaneously
 
-The assistant prioritizes safety-relevant alerts and avoids repetitive announcements, ensuring a smooth and usable experience.
+- The assistant prioritizes safety-relevant alerts and avoids repetitive announcements, ensuring a smooth and usable experience.
 
-⚠️ Limitations
+## ⚠️ Limitations
 
-Designed primarily for indoor, short-range assistance
+- Designed primarily for indoor, short-range assistance
 
-Performance depends on lighting and camera quality
+- Performance depends on lighting and camera quality
 
-Not a replacement for mobility aids or professional assistance
+- Not a replacement for mobility aids or professional assistance
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
-Distance-based warning levels
+- Distance-based warning levels
 
-Customizable voice speed and alert frequency
+- Customizable voice speed and alert frequency
 
-Support for outdoor environments
+- Support for outdoor environments
 
-Mobile or wearable device integration
+- Mobile or wearable device integration
 
-Emergency alert mode
+- Emergency alert mode
 
-🌍 Real-World Impact
+## 🌍 Real-World Impact
 
-Enhances independence for visually impaired users
+- Enhances independence for visually impaired users
 
-Improves safety in unfamiliar environments
+- Improves safety in unfamiliar environments
 
-Provides an affordable assistive technology prototype
+- Provides an affordable assistive technology prototype
 
-Demonstrates responsible and human-centered AI
+- Demonstrates responsible and human-centered AI
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project showcases how computer vision can be applied ethically and practically to assist real users. By focusing on clarity, priority, and usability, it demonstrates how AI systems can make meaningful real-world impact beyond accuracy metrics.
 
-🙋 Author
+##### 🙋 Author
 
 Jyotika Satav
 
